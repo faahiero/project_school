@@ -1,0 +1,14 @@
+/home/faahiero/Documentos/Workspace/VueJS/VUE_PROJECT-master/ProjectSchool_API/bin/Debug/netcoreapp2.2/ProjectSchool_API.deps.json
+/home/faahiero/Documentos/Workspace/VueJS/VUE_PROJECT-master/ProjectSchool_API/bin/Debug/netcoreapp2.2/ProjectSchool_API.runtimeconfig.json
+/home/faahiero/Documentos/Workspace/VueJS/VUE_PROJECT-master/ProjectSchool_API/bin/Debug/netcoreapp2.2/ProjectSchool_API.runtimeconfig.dev.json
+/home/faahiero/Documentos/Workspace/VueJS/VUE_PROJECT-master/ProjectSchool_API/bin/Debug/netcoreapp2.2/ProjectSchool_API.dll
+/home/faahiero/Documentos/Workspace/VueJS/VUE_PROJECT-master/ProjectSchool_API/bin/Debug/netcoreapp2.2/ProjectSchool_API.pdb
+/home/faahiero/Documentos/Workspace/VueJS/VUE_PROJECT-master/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.csprojAssemblyReference.cache
+/home/faahiero/Documentos/Workspace/VueJS/VUE_PROJECT-master/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.csproj.CoreCompileInputs.cache
+/home/faahiero/Documentos/Workspace/VueJS/VUE_PROJECT-master/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.RazorAssemblyInfo.cache
+/home/faahiero/Documentos/Workspace/VueJS/VUE_PROJECT-master/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.RazorAssemblyInfo.cs
+/home/faahiero/Documentos/Workspace/VueJS/VUE_PROJECT-master/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.AssemblyInfoInputs.cache
+/home/faahiero/Documentos/Workspace/VueJS/VUE_PROJECT-master/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.AssemblyInfo.cs
+/home/faahiero/Documentos/Workspace/VueJS/VUE_PROJECT-master/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.RazorTargetAssemblyInfo.cache
+/home/faahiero/Documentos/Workspace/VueJS/VUE_PROJECT-master/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.dll
+/home/faahiero/Documentos/Workspace/VueJS/VUE_PROJECT-master/ProjectSchool_API/obj/Debug/netcoreapp2.2/ProjectSchool_API.pdb
